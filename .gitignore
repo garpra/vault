@@ -1,0 +1,20 @@
+
+# Abaikan folder Obsidian cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash
+
+# Abaikan file temporary atau sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Abaikan file backup / conflict
+*.sync-conflict-*
+*.tmp
+~*
+
+# Abaikan folder log/backup buatan plugin tertentu
+.obsidian/logs/
+.obsidian/backups/
